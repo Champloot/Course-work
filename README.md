@@ -2,7 +2,6 @@
 Implementation of encryption algorithms
 
 Source data:
-
 Implement the following encryption functions as a class:
 
     1. Caesar cipher

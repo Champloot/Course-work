@@ -1,0 +1,5 @@
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
+If you write the problem down clearly, then the matter is half solved.
+
+Anything that can go wrong will go wrong.

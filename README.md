@@ -1,5 +1,5 @@
 # Course-work
-Implementation of encryption algorithms
+Implementation of encryption algorithms.
 
 Source data:
 Implement the following encryption functions as a class:
